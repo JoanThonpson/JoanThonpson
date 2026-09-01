@@ -1,25 +1,12 @@
-# 👋 Hi, I'm Joan Thompson
+# Sou Joan Thompson
 
-### Junior Software Developer | Systems Analyst | Web & Mobile Development
+### Junior Software Developer | Systems Analyst
 
 I have a background in systems support, implementation, process automation, databases and technical support, and I am currently expanding my career toward software development.
 
 I enjoy turning real-world needs into practical software solutions, combining analytical thinking, problem-solving and technology.
 
 Currently focused on strengthening my skills in **web development, databases, APIs and software engineering practices**.
-
----
-
-## 🚀 What I Do
-
-- 💻 Develop web and mobile applications
-- 🗄️ Work with SQL and relational databases
-- 🔧 Support and configure business systems
-- ⚙️ Automate processes and improve workflows
-- 📊 Analyze data and business requirements
-- 🧩 Integrate systems and troubleshoot technical issues
-- 📋 Organize development tasks using Agile tools
-- 🔎 Learn and apply new technologies through practical projects
 
 ---
 
@@ -69,17 +56,6 @@ The system provides administrative access for staff, real-time checklist updates
 
 `GitHub Pages` · `GitHub Actions`
 
-### Highlights
-
-- Built a complete web application from concept to deployment
-- Integrated Supabase as the backend and database platform
-- Designed data persistence using PostgreSQL
-- Implemented real-time activity updates
-- Created administrative and public views
-- Automated deployment through GitHub Actions
-- Published the application for public access
-- Successfully used during a real event
-
 🔗 **[Live Application](https://joanthonpson.github.io/point/)**  
 🔗 **[Source Code](https://github.com/JoanThonpson/point)**
 
@@ -107,32 +83,11 @@ I also develop academic and personal projects focused on web and mobile applicat
 
 `Flutter` · `JavaScript` · `React` · `C#` · `SQL`
 
-These projects are part of my ongoing transition from systems support and analysis into software development.
-
----
-
-# 📚 Currently Learning
-
-I'm continuously improving my knowledge in:
-
-- Software Engineering
-- React & TypeScript
-- Backend development
-- REST APIs
-- Database design
-- PostgreSQL & SQL
-- Git & GitHub
-- Agile methodologies
-- System integration
-- Clean and maintainable code
-
 ---
 
 # 🌎 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-thonpson-santos/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoanThonpson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-thonpson-santos/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoanThonpson)
 
 ---
 
