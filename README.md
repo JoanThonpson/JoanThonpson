@@ -97,21 +97,7 @@ Meu objetivo é transformar cada projeto em uma oportunidade para aprender, expe
 
 ---
 
-# 📊 GitHub em números
-
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoanThonpson&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-
-# 🤝 Vamos conversar?
+### 💡 Tecnologia faz sentido quando resolve problemas reais.
 
 <div align="center">
 
@@ -126,5 +112,3 @@ Meu objetivo é transformar cada projeto em uma oportunidade para aprender, expe
 </div>
 
 ---
-
-### 💡 Tecnologia faz sentido quando resolve problemas reais.
