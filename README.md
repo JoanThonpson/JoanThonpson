@@ -64,7 +64,7 @@ Sistema web desenvolvido para registrar e acompanhar faltas de docentes, gerenci
 
 A aplicação possui controle de acesso por perfis, com diferentes níveis de permissão.
 
-🔗 [Aplicação]([https://joanthonpson.github.io/ControleDocenteFaltosos/](https://joanthonpson.github.io/ControleDocenteFaltosos/)
+🔗 [Aplicação](https://joanthonpson.github.io/ControleDocenteFaltosos/)
 🔗 [Repositório](https://github.com/JoanThonpson/ControleDocenteFaltosos)
 
 # Controle Financeiro
