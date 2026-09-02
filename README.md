@@ -10,29 +10,36 @@ Atualmente, estou ampliando minha atuação em **desenvolvimento de software**, 
 
 ---
 
-## 🛠️ Tecnologias
+### Desenvolvimento
 
-### 💻 Desenvolvimento
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-`JavaScript` `TypeScript` `React` `C#` `.NET` `Flutter` `Dart` `HTML` `CSS`
+### Bancos de dados
 
-### 🗄️ Dados
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-`SQL` `SQL Server` `PostgreSQL` `Supabase`
+### Ferramentas e plataformas
 
-### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Microsoft Planner](https://img.shields.io/badge/Microsoft_Planner-3178C6?style=for-the-badge&logo=microsoft&logoColor=white)
 
-`Git` `GitHub` `Jira` `Trello` `Microsoft Planner`
-
-### 🌱 Em experiência / evolução
-
-`Angular` `Node.js` `Linux` `Docker` `DSpace`
 
 ---
 
-# ⭐ Projetos em destaque
+# Projetos em destaque
 
-## 📍 Activity Map
+# 📍 Activity Map
 
 ### Aplicação web para gerenciamento de atividades em evento
 
@@ -51,9 +58,7 @@ Projeto desenvolvido para organizar atividades e acompanhar o progresso das equi
 🔗 [Aplicação](https://joanthonpson.github.io/point/)
 🔗 [Repositório](https://github.com/JoanThonpson/point)
 
----
-
-## 👨‍🏫 ControleDocenteFaltosos
+# ControleDocenteFaltosos
 
 Sistema web desenvolvido para registrar e acompanhar faltas de docentes, gerenciar informações dos professores e gerar relatórios e estatísticas.
 
@@ -62,18 +67,14 @@ A aplicação possui controle de acesso por perfis, com diferentes níveis de pe
 🔗 [Aplicação]([https://joanthonpson.github.io/ControleDocenteFaltosos/](https://joanthonpson.github.io/ControleDocenteFaltosos/)
 🔗 [Repositório](https://github.com/JoanThonpson/ControleDocenteFaltosos)
 
----
-
-## 💰 Controle Financeiro
+# Controle Financeiro
 
 Projeto acadêmico desenvolvido para organização e controle financeiro, envolvendo desenvolvimento web e estruturação de dados.
 
 🔗 [Aplicação](https://joanthonpson.github.io/controle-financeiro/)
 🔗 [Repositório](https://github.com/JoanThonpson/controle-financeiro)
 
----
-
-# 🏛️ Projeto em andamento — DSpace
+# Projeto em andamento — DSpace
 
 Participação na adaptação de uma implementação institucional do **DSpace**, atualmente em ambiente interno.
 
@@ -85,7 +86,6 @@ Também participo da adaptação da interface que será disponibilizada no ambie
 
 🔗 [Modelo da interface]([https://joanthonpson.github.io/DSPACE/](https://joanthonpson.github.io/Repo-UNIPIO/))
 
----
 
 # 📚 Outros projetos
 
