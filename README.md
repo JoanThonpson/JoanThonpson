@@ -58,14 +58,14 @@ Projeto desenvolvido para organizar atividades e acompanhar o progresso das equi
 🔗 [Aplicação](https://joanthonpson.github.io/point/)
 🔗 [Repositório](https://github.com/JoanThonpson/point)
 
-# ControleDocenteFaltosos
+# Registro-Faltas
 
 Sistema web desenvolvido para registrar e acompanhar faltas de docentes, gerenciar informações dos professores e gerar relatórios e estatísticas.
 
 A aplicação possui controle de acesso por perfis, com diferentes níveis de permissão.
 
-🔗 [Aplicação](https://joanthonpson.github.io/ControleDocenteFaltosos/)
-🔗 [Repositório](https://github.com/JoanThonpson/ControleDocenteFaltosos)
+🔗 [Aplicação](https://joanthonpson.github.io/Registro-Faltas/)
+🔗 [Repositório](https://github.com/JoanThonpson/Registro-Faltas)
 
 # Controle Financeiro
 
