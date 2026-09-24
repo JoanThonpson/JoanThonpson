@@ -2,7 +2,7 @@
 
 ### Analista de Sistemas | Dev Júnior
 
-Profissional de tecnologia com experiência em **suporte, implantação e gestão de sistemas**, banco de dados, automação de processos.
+Profissional de tecnologia com atuação entre negócio, processos e desenvolvimento de software. Experiência em suporte, análise de sistemas e organização de projetos web/mobile.
 
 Atualmente, estou ampliando minha atuação em **desenvolvimento de software**, construindo aplicações web e mobile e participando de projetos reais que envolvem desenvolvimento, integração, bancos de dados e organização de demandas.
 
@@ -89,11 +89,25 @@ Também participo da adaptação da interface que será disponibilizada no ambie
 
 # 📚 Outros projetos
 
+## Cases de Produto
+
+### MVP Mobile (Break for Love) — Projeto Acadêmico
+Gestão de backlog, priorização de demandas, definição de critérios de conclusão e acompanhamento de entregas.
+
+🔗 [Board no Trello](https://trello.com/b/1jEjuQOt/mvp-mobile)
+
+### MVP Game (Cajuzinho) — Projeto Acadêmico
+Estruturação de board com WIP Limit, divisão por frentes (Design, Frontend, Backend), fases de teste e revisão de código.
+
+🔗 [Board no Trello](https://trello.com/b/07LhDQxp)
+
+
 Além dos projetos em destaque, desenvolvo aplicações e trabalhos acadêmicos envolvendo:
 
 `C#` · `.NET` · `Flutter` · `JavaScript` · `React` · `Node.js` · `SQL`
 
 Meu objetivo é transformar cada projeto em uma oportunidade para aprender, experimentar novas tecnologias e melhorar minhas práticas de desenvolvimento.
+
 
 ---
 
