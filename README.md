@@ -1,6 +1,6 @@
 # Joan Thompson
 
-### Analista de Sistemas | Dev Júnior
+### Analista de Requisitos & Dev Júnior | Processos, Produto e Tecnologia
 
 Profissional de tecnologia com atuação entre negócio, processos e desenvolvimento de software. Experiência em suporte, análise de sistemas e organização de projetos web/mobile.
 
