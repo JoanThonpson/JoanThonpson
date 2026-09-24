@@ -87,8 +87,6 @@ Também participo da adaptação da interface que será disponibilizada no ambie
 🔗 [Modelo da interface](https://joanthonpson.github.io/Repo-UNIPIO/)
 
 
-# 📚 Outros projetos
-
 ## Cases de Produto
 
 ### MVP Mobile (Break for Love) — Projeto Acadêmico
@@ -101,6 +99,8 @@ Estruturação de board com WIP Limit, divisão por frentes (Design, Frontend, B
 
 🔗 [Board no Trello](https://trello.com/b/07LhDQxp)
 
+
+# 📚 Outros projetos
 
 Além dos projetos em destaque, desenvolvo aplicações e trabalhos acadêmicos envolvendo:
 
