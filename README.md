@@ -84,7 +84,7 @@ O projeto envolve contato com:
 
 Também participo da adaptação da interface que será disponibilizada no ambiente web da instituição.
 
-🔗 [Modelo da interface]([https://joanthonpson.github.io/DSPACE/](https://joanthonpson.github.io/Repo-UNIPIO/))
+🔗 [Modelo da interface](https://joanthonpson.github.io/Repo-UNIPIO/)
 
 
 # 📚 Outros projetos
